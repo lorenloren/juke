@@ -1,12 +1,12 @@
-##这是一个租房的 web app 
+## 这是一个租房的 web app 
 
-##技术栈 react + redux + react-router + swiper + less + fetch 
+## 技术栈 react + redux + react-router + swiper + less + fetch 
 
 
 
-###首页
+### 首页
 
-<img src="./readme/home.png"/>
+<img src="./readme/home.png" width="200px"/>
 
 点击左上角的城市 跳转到定位页面,点击切换城市
 
@@ -16,27 +16,27 @@
 
 搜索框输入内容后,按回车跳转到 搜索页面,点击搜索页面的数据 ,跳转到详情页,路由携带参数(id)
 
-###定位
+### 定位
 
 <img src="./readme/dy.png" width="200px"/>
 
-###搜索
+### 搜索
 
 <img src="./readme/search.png" width="200px"/>
 
-###详情
+### 详情
 
 <img src="./readme/search_xq.png" width="200px"/>
 
-###购物车
+### 购物车
 
 <img src="./readme/shop.png" width="200px"/>
 
-###登录
+### 登录
 
 <img src="./readme/login.png" width="200px"/>
 
-##环境配置
+## 环境配置
 
 下载之后npm install 安装依赖
 

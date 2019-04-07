@@ -18,23 +18,23 @@
 
 ###定位
 
-<img src="./readme/dy.png"/>
+<img src="./readme/dy.png" width="200px"/>
 
 ###搜索
 
-<img src="./readme/search.png"/>
+<img src="./readme/search.png" width="200px"/>
 
 ###详情
 
-<img src="./readme/search_xq.png"/>
+<img src="./readme/search_xq.png" width="200px"/>
 
 ###购物车
 
-<img src="./readme/shop.png"/>
+<img src="./readme/shop.png" width="200px"/>
 
 ###登录
 
-<img src="./readme/login.png"/>
+<img src="./readme/login.png" width="200px"/>
 
 ##环境配置
 

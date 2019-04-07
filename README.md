@@ -1,6 +1,6 @@
 ## 这是一个租房的 web app 
 
-## 技术栈 react + redux + react-router + swiper + less + fetch 
+#### 技术栈 react + redux + react-router + swiper + less + fetch 
 
 
 
